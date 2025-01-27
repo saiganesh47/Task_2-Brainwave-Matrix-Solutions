@@ -26,4 +26,4 @@ Logistic Regression slightly well performed the in terms of accuracy.
 For any inquiries or feedback regarding this project, please contact :
 
  - LinkedIn: https://www.linkedin.com/in/sai-ganesh-maganti-773208238
- - Email: msaiganesh23@gmail.com
+ - Email: msaiganesh02@gmail.com
